@@ -1,5 +1,5 @@
-<nav class="bg-blue-800 text-white">
-    <div class="max-w-screen-xl px-4 py-1 mx-auto sm:px-16 flex justify-between items-center">
+<nav class="bg-gray-900 text-white border-b-2 border-gray-400 shadow">
+    <div class="max-w-screen-xl px-4 py-1 mx-auto sm:px-12 flex justify-between items-center">
         <!-- logo -->
         <div class="bg-white px-4 py-1 my-2 w-fit rounded">
             <img src="{{ asset('storage/logo.png') }}" alt="Logo" class="w-32" />
